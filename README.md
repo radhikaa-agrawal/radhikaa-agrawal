@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @radhikaa-agrawal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Django frameworks, DSA
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web devlopment
+- 🌱 I’m currently learning Django frameworks  DSA
+- 💞️ I’m looking to collaborate on a project involving Django frameworks
 - 📫 How to reach me ... 
 
 <!---
